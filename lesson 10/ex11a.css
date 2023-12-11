@@ -1,0 +1,12 @@
+.grid{
+    display: grid;
+    grid-template-columns: 200px 75px;
+}
+
+.fcol{
+    background-color: rgb(162, 205, 219);
+}
+
+.scol{
+    background-color: rgb(211, 165, 172);
+}

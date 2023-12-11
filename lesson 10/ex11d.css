@@ -1,0 +1,53 @@
+.grid{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    column-gap: 15px;
+}
+
+div{
+    width: 300px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+}
+
+.bigimg{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.smallimg{
+    object-fit: cover;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    margin-left: 6px;
+    vertical-align: middle;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-left: 6px;
+}
+
+.name{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.friend{
+    color: rgb(128, 123, 123);
+    display: inline-block;
+}
+
+button{
+    color: white;
+    background-color: rgb(36, 122, 235);
+    border: none;
+    border-radius: 4px;
+    margin: 8px;
+    width: 115px;
+    padding: 9px 15px;
+    display: block;
+}
