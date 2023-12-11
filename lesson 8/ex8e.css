@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, Helvetica, sans-serifS;
+}
+
+#parag{
+    font-size: 35px;
+    margin-bottom: 18px;
+}
+
+.info{
+    display: block;
+    width:290px;
+    padding: 10px 16px 10px;
+    background-color: rgb(245, 243, 243);
+    border: none;
+    margin-bottom: 7px;
+}
+
+#request{
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 8px 16px 8px 16px;
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+#Scheduale{
+    background-color: rgb(245, 243, 243);
+    border: none;
+    padding: 8px 16px 8px 16px;
+    text-align: center;
+}

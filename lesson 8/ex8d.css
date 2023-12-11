@@ -1,0 +1,27 @@
+.name{
+    width:100px;
+    padding: 6px 8px 6px 8px;
+    border-radius: 5px;
+    border: 1px solid rgb(177, 174, 174);
+}
+
+#mail{
+    display: block;
+    width:220px;
+    border-radius: 5px;
+    padding: 6px 9px 6px;
+    border: 1px solid rgb(177, 174, 174);
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+#button{
+    color: white;
+    font-weight: bold;
+    background-color: rgb(67, 125, 231);
+    width:240px;
+    border-radius: 5px;
+    padding: 9px 0 9px 0;
+    border: none;
+
+}
