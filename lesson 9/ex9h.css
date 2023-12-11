@@ -1,0 +1,28 @@
+div{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+}
+
+input{
+    width: 500px;
+    height: 20px;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+button{
+    background-color: rgb(236, 233, 233);
+    border: none;
+    padding: 8px 15px;
+}
+
+#google{
+    margin-right: 6px;
+}

@@ -1,0 +1,38 @@
+div{
+    width: 300px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+    display: inline-block;
+    margin-right: 15px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-left: 6px;
+}
+
+.name{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.friend{
+    color: rgb(128, 123, 123);
+}
+
+button{
+    color: white;
+    background-color: rgb(36, 122, 235);
+    border: none;
+    border-radius: 4px;
+    margin: 8px;
+    width: 115px;
+    padding: 9px 15px;
+}
