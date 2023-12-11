@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+#head{
+    font-weight: bold;
+    font-size: 45px;
+    margin: 15px;
+}
+
+#sen{
+    text-decoration: underline;
+}
