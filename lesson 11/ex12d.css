@@ -1,0 +1,12 @@
+.flex{
+    border: 1px solid black;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item{
+    background-color: lightpink;
+}

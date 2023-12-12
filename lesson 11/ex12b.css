@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.fcol{
+    width: 50px;
+    background-color: lightblue;
+}
+
+.scol{
+    flex:1;
+    background-color: lightpink;
+}
+
+.tcol{
+    width: 75px;
+    background-color: lightblue;
+}
