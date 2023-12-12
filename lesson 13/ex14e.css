@@ -1,0 +1,59 @@
+body{
+    height: 3000px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.headimg{
+    display: flex;
+    align-items: center;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-left: 60px;
+    margin-right: 9px;
+}
+
+.head{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.add{
+    background-color: rgb(38, 123, 234);
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    border: none;
+    border-radius: 5px;
+    padding-top: 7px;
+    padding-right: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    margin-right: 3px;
+}
+
+.message{
+    background-color: rgb(211, 203, 203);
+    font-weight: bold;
+    font-size: 12px;
+    border: none;
+    border-radius: 5px;
+    padding-top: 7.5px;
+    padding-right: 9px;
+    padding-bottom: 7.5px;
+    padding-left: 9px;
+}

@@ -1,0 +1,62 @@
+body{
+    height: 3000px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fsidebar{
+    background-color: rgb(46, 46, 46);
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+img{
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+    border-radius: 27.5px;
+    margin-bottom: 7px;
+}
+
+.ssidebar{
+    background-color: rgb(71, 70, 70);
+    width: 130px;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 75px;
+    padding-left: 11px;
+    padding-right: 14px;
+}
+
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.info{
+    font-weight: bold;
+    color: white;
+    font-size: 13px;
+}
+
+.plus{
+    color: rgb(160, 159, 159);
+    font-size: 20px;
+}
+
+.text{
+    color: rgb(160, 159, 159);
+    margin-top: -20px;
+}
