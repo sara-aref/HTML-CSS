@@ -1,0 +1,20 @@
+.sqr {
+    position: relative;
+    display: inline-block;
+  }
+  
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+  }
+  
+.sale {
+    position: absolute;
+    right: 0px;
+    top: 10px;
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    padding: 2px 4px;
+}
